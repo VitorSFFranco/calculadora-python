@@ -1,17 +1,12 @@
-# Calculadora em Python
+# Calculadora Python
 
-Este repositório contém uma calculadora simples desenvolvida em Python.
+Este projeto é uma calculadora simples desenvolvida em Python.
 
-## Como Executar o Código
+## Como Executar
 
-### 1. Instalando Python
+### Executar diretamente:
+1. Certifique-se de que tem Python instalado na sua máquina.
+2. No terminal, navegue até o diretório do script e execute:
 
-Para executar o código, você precisará ter o Python instalado em sua máquina. Se você não tem, faça o download e instale [Python](https://www.python.org/downloads/).
-
-### 2. Executando com o Arquivo `.sh`
-
-1. No terminal, navegue até a pasta onde o arquivo `executar_calculadora.sh` está.
-2. Execute o seguinte comando:
-
-   ```bash
-   ./executar_calculadora.sh
+```bash
+python3 calculadora.py
